@@ -1,0 +1,5 @@
+{
+  "name": "Matrix Construct Engine",
+  "description": "A 3D simulation environment where AI agents (via local Ollama) build and maintain a modular holographic world. Implements permission hierarchies and information-to-hologram propagation.",
+  "requestFramePermissions": []
+}
